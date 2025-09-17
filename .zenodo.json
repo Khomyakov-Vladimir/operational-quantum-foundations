@@ -1,0 +1,41 @@
+{
+  "title": "Operational Quantum Foundations: Relational Quantum Mechanics and the Principle of Finite Informational Alignment for Subjective Physics",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "This work develops the operational foundations of quantum theory within Relational Quantum Mechanics, introducing the principle of Finite Informational Capacity and R-events as fundamental units of interaction. The framework explains the emergence of classicality and addresses the Wigner’s Friend paradox through Monte Carlo simulations and bootstrap inference, providing a reproducible model of the Quantum Measurement Problem grounded in subjective physics.",
+  "license": "MIT",
+  "keywords": [
+    "relational quantum mechanics",
+    "finite informational capacity",
+    "subjective physics",
+    "r-events",
+    "informational alignment",
+    "percolation of agreement",
+    "emergence of classicality",
+    "wigner's friend paradox",
+    "operational foundations",
+    "quantum measurement problem"
+  ],
+  "version": "1.0",
+  "upload_type": "publication",
+  "doi": "10.5281/zenodo.17139825",
+  "publication_date": "2025-09-17",
+  "language": "en",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.5281/zenodo.17139824",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isBasedOn",
+      "identifier": "10.5281/zenodo.16888675",
+      "scheme": "doi"
+    }
+  ]
+}

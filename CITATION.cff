@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Operational Quantum Foundations: Relational Quantum Mechanics and the Principle of Finite Informational Alignment for Subjective Physics"
+version: "1.0"
+doi: "10.5281/zenodo.17139825"
+url: "https://doi.org/10.5281/zenodo.17139825"
+date-released: 2025-09-17
+publisher: "Zenodo"
+authors:
+  - family-names: "Khomyakov"
+    given-names: "Vladimir"
+keywords:
+  - relational quantum mechanics
+  - finite informational capacity
+  - subjective physics
+  - r-events
+  - informational alignment
+  - percolation of agreement
+  - emergence of classicality
+  - wigner's friend paradox
+  - operational foundations
+  - quantum measurement problem
+abstract: |
+  Relational Quantum Mechanics (RQM), when supplemented by the principle of finite informational capacity (Finite Informationality), provides a natural and operational foundation for the hypothesis of Subjective Physics. This synthesis resolves key paradoxes of quantum observation by eliminating the need for infinite branching of states and hidden variables, while proposing a model in which the coherence of reality emerges through finite informational exchanges between systems (R-events). The present work directly develops ideas from our earlier study on cognitive phase transitions in Subjective Physics, now providing a formal framework that integrates RQM postulates, finite informational alignment, and ...operational mappings to Montina–Wolf type models.
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Khomyakov"
+      given-names: "Vladimir"
+  title: "Operational Quantum Foundations: Relational Quantum Mechanics and the Principle of Finite Informational Alignment for Subjective Physics"
+  version: "1.0"
+  publisher: "Zenodo"
+  year: 2025
+  month: 9
+  doi: "10.5281/zenodo.17139825"
+  url: "https://doi.org/10.5281/zenodo.17139825"
